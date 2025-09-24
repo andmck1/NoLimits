@@ -152,17 +152,25 @@
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/__ExternalActors__/TestLevel/E/LI/AM0XXL6VOCQS6A46DRMWRF.uasset",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/TestLevel.umap",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/BP_Car.uasset",
-				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/IMC_Car.uasset",
-				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/Drift.uasset",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/IMC_Car.uasset",
-				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/Left.uasset",
-				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/Right.uasset",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/IA_Drift.uasset",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/IA_MoveLeft.uasset",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/IA_MoveRight.uasset",
 				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/BP_PlayerController.uasset",
-				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Struct_InputAxes.uasset",
-				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/BP_GameMode.uasset"
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/BP_GameMode.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/WBP_HUD.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/PHYSMAT_NoFriction.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/__ExternalActors__/TestLevel/0/IW/C4U8IJ7V3UGMSB2VS5VNYQ.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/__ExternalActors__/TestLevel/8/WY/BAQ74DTK5JOXB7SET61C6K.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/DeathPlane.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/__ExternalActors__/TestLevel/2/Z0/WPPSGDEFW9YB2D9AK69CIA.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/BP_DeathPlane.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/BP_SuccessPlane.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/IMC_Car.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/Drift.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/Left.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Input/Right.uasset",
+				"C:/Users/alast/dev/unreal-projects/NoLimits/Content/Struct_InputAxes.uasset"
 			]
 		}
 	]
